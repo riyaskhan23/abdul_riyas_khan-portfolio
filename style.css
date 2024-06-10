@@ -1100,7 +1100,7 @@ header nav .cv_download a button:hover{
 
 .about{
     width: 100%;
-    min-height: 125vh;
+    height: 100%;
     position: relative;
     overflow: hidden;
 }
@@ -1220,6 +1220,7 @@ header nav .cv_download a button:hover{
     width: 150px;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 20%;
 }
 .about .main-content .details .contact a{
     color: var(--gray);
@@ -1265,7 +1266,7 @@ header nav .cv_download a button:hover{
 
 .skill{
     width: 100%;
-    min-height: 125vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1287,12 +1288,13 @@ header nav .cv_download a button:hover{
 }
 
 .skill .title-sec{
-    width: 100%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-bottom: 15%;
+    margin-top: 30%;
 }
 
 .skill .title-sec h1{
@@ -1305,8 +1307,8 @@ header nav .cv_download a button:hover{
 .skill .title-sec p{
     color: var(--white);
     font-size: 15px;
-    letter-spacing: 5px;
-    word-spacing: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
     font-weight: 500;
 }
 
@@ -1452,6 +1454,7 @@ header nav .cv_download a button:hover{
 
 .skill .load{
     margin-top: 5%;
+    margin-bottom: 20%;
 }
 
 .skill .load h3{
@@ -1462,7 +1465,7 @@ header nav .cv_download a button:hover{
 
 /* =============EDUCATION SECTION================= */
 .education{
-    min-height: 125vh;
+    height: 100%;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -1483,7 +1486,8 @@ header nav .cv_download a button:hover{
 .education .edu-content{
     height: 20%;
     width: 80%;
-    margin-top: 20%;
+    margin-top: 30%;
+    margin-bottom: 10%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1507,7 +1511,7 @@ header nav .cv_download a button:hover{
 .education .education-main{
     background-color: transparent;
     backdrop-filter: blur(0px);
-    width: 95%;
+    width: 90%;
     min-height: 60%;
     border-radius: 30px;
     box-shadow: 0 0 0 0 var(--reflextion);
@@ -1516,6 +1520,7 @@ header nav .cv_download a button:hover{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-bottom: 20%;
 }
 
 .education .education-main .indi{
@@ -1549,7 +1554,7 @@ header nav .cv_download a button:hover{
     background-color: var(--nav);
     border-radius: 20px;
     height: 80%;
-    width: 90%;
+    width: 100%;
     padding: 0 0 0 5%;
     display: flex;
     flex-direction: column;
@@ -1607,7 +1612,7 @@ header nav .cv_download a button:hover{
 }
 .education .education-main .alu .phy{
     height: 80%;
-    width: 90%;
+    width: 100%;
     background-color: var(--nav);
     padding: 0 0 0 5%;
     display: flex;
@@ -1667,7 +1672,7 @@ header nav .cv_download a button:hover{
     background-color: var(--nav);
     border-radius: 20px;
     height: 80%;
-    width: 90%;
+    width: 100%;
     padding: 0 0 0 5%;
     display: flex;
     flex-direction: column;
@@ -1722,7 +1727,7 @@ header nav .cv_download a button:hover{
     background-color: var(--nav);
     border-radius: 20px;
     height: 80%;
-    width: 90%;
+    width: 100%;
     padding: 0 0 0 5%;
     display: flex;
     flex-direction: column;
@@ -1757,7 +1762,7 @@ header nav .cv_download a button:hover{
 /* ===============PROJECT SECTION================== */
 
 .project{
-    min-height: 125vh;
+    height: 100%;
     width: 100%;
     background-image: url(img/skill_bg.jpg);
     background-color: var(--body);
@@ -1780,7 +1785,7 @@ header nav .cv_download a button:hover{
 }
 
 .project .project-title{
-    width: 100%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1799,7 +1804,7 @@ header nav .cv_download a button:hover{
 .project .project-title p{
     color: var(--white);
     font-size: 12px;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     word-spacing: 0px;
     font-weight: 500;
 }
@@ -1810,6 +1815,7 @@ header nav .cv_download a button:hover{
     display: flex;
     flex-wrap: wrap;
     padding: 1%;
+    margin-bottom: 20%;
 }
 
 .project .project-content .content{
@@ -1902,8 +1908,3 @@ header nav .cv_download a button:hover{
 }
 
 }
-
-
-
-
-
