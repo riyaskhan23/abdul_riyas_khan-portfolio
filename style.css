@@ -1307,8 +1307,8 @@ header nav .cv_download a button:hover{
 .skill .title-sec p{
     color: var(--white);
     font-size: 15px;
-    letter-spacing: 3px;
-    word-spacing: 5px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
     font-weight: 500;
 }
 
@@ -1503,8 +1503,8 @@ header nav .cv_download a button:hover{
 .education .edu-content p{
     color: var(--white);
     font-size: 15px;;
-    letter-spacing: 3px;
-    word-spacing: 5px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
     font-weight: 500;
 }
 
@@ -1804,7 +1804,7 @@ header nav .cv_download a button:hover{
 .project .project-title p{
     color: var(--white);
     font-size: 12px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     word-spacing: 0px;
     font-weight: 500;
 }
