@@ -1600,15 +1600,15 @@ header nav .cv_download a button:hover{
 }
 .education .education-main .jj .mca .major span{
     color: var(--main);
-    font-size: 1em;
+    font-size: 0.8em;
     letter-spacing: 0;
 }
 .education .education-main .jj .mca h3,
 .education .education-main .jj .mca h4
 {
-    font-size: 1em;
+    font-size: 0.8em;
     color: var(--gray);
-    letter-spacing: 0.5px;
+    letter-spacing: 0px;
     font-weight: 400;
 }
 
@@ -1658,20 +1658,22 @@ header nav .cv_download a button:hover{
 }
 
 .education .education-main .alu .phy .major h1{
+    font-size: 1.2em;
     color: var(--white);
-    letter-spacing: 0.5px;
+    letter-spacing: 0px;
     font-weight: 500;
 }
 .education .education-main .alu .phy .major span{
     color: var(--main);
-    font-size: 1rem;
+    font-size: 0.8rem;
     letter-spacing: 0;
 }
 .education .education-main .alu .phy h3,
 .education .education-main .alu .phy h4
 {
     color: var(--gray);
-    letter-spacing: 0.5px;
+    font-size: 0.8em;
+    letter-spacing: 0px;
     font-weight: 400;
 }
 
@@ -1721,18 +1723,20 @@ header nav .cv_download a button:hover{
 }
 
 .education .education-main .nsm12 .c12 .major h1{
+    font-size: 1.3em;
     color: var(--white);
     font-weight: 500;
 }
 .education .education-main .nsm12 .c12 .major span{
     color: var(--main);
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 .education .education-main .nsm12 .c12 h3,
 .education .education-main .nsm12 .c12 h4
 {
     color: var(--gray);
-    letter-spacing: 0.5px;
+    font-size: 0.8em;
+    letter-spacing: 0px;
     font-weight: 400;
 }
 
@@ -1782,20 +1786,21 @@ header nav .cv_download a button:hover{
 }
 
 .education .education-main .nsm10 .c10 .major h1{
+    font-size: 1.3em;
     color: var(--white);
     font-weight: 500;
 }
 .education .education-main .nsm10 .c10 .major span{
     color: var(--main);
-    font-size: 1rem;
-    margin-left: 8rem;
+    font-size: 0.8rem;
 }
 .education .education-main .nsm10 .c10 h3,
 .education .education-main .nsm10 .c10 h4
 {
     color: var(--gray);
-    letter-spacing: 0.5px;
+    letter-spacing: 0px;
     font-weight: 400;
+    font-size: 0.8em;
 }
 
 
