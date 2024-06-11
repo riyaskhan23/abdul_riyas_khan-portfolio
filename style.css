@@ -1174,6 +1174,7 @@ header nav .cv_download a button:hover{
     height: 70vh;
     /* background: var(--body); */
     backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     box-shadow: 0 0 15px 0px var(--reflextion),
                 0 0 10px 10px var(--shadow) inset,
                 0 0 1px 4px var(--reflextion) inset;
